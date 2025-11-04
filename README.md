@@ -9,3 +9,7 @@
 - [ROS与Nav笔记](https://h0lcdmf8t0v.feishu.cn/docx/LRLZdwm39o3p5Mxa1dvc0Icenkb)：主要是介绍如何使用ROS构建路径规划与导航功能，ROS1/2都有
 
 - [足式机器人笔记](https://h0lcdmf8t0v.feishu.cn/docx/K4LHdjqgkoY4VlxqfL1cWAEwnPb)：主要是介绍四足机器人的传统控制方法，后续会加入强化学习方法
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Michael-Jetson/Planning_Decision_and_Control_Note&type=date&legend=top-left)](https://www.star-history.com/#Michael-Jetson/Planning_Decision_and_Control_Note&type=date&legend=top-left)
