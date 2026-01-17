@@ -8,7 +8,9 @@
 
 - [ROS与Nav笔记](https://h0lcdmf8t0v.feishu.cn/docx/LRLZdwm39o3p5Mxa1dvc0Icenkb)：主要是介绍如何使用ROS构建路径规划与导航功能，ROS1/2都有
 
-- [足式机器人笔记](https://h0lcdmf8t0v.feishu.cn/docx/K4LHdjqgkoY4VlxqfL1cWAEwnPb)：主要是介绍四足机器人的传统控制方法，后续会加入强化学习方法
+- [足式机器人笔记](https://h0lcdmf8t0v.feishu.cn/docx/K4LHdjqgkoY4VlxqfL1cWAEwnPb)：主要是介绍四足机器人的传统控制方法，内容较为齐全
+
+- [足式强化学习笔记](https://my.feishu.cn/wiki/Sn4iwqtREio1llkzJ6Vc9wIwnmf)：主要是介绍四足机器人的强化学习控制方法，包括强化学习基础理论、PPO/SAC等知名RL算法、RL四足运控概念、RMA等四足RL经典论文解读，目前有接近十万字内容，后续会加入Isaac系列实战
 
 # Star History
 
