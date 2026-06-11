@@ -1,5 +1,7 @@
 # Planning_Decision_and_Control_Note
 
+**迁移通知**:本项目后期会合并到本人另一仓库下,该仓库将会更齐全,地址为[Michael-Jetson/Robotics_Tutorial](https://github.com/Michael-Jetson/Robotics_Tutorial)
+
 规划决策与控制方面的笔记，涉及自动驾驶车辆、无人机和足式机器人等，目前改为飞书记录，因此给出飞书链接，笔记在补充中，本人也是初学规控决策方向，因此笔记中必然存在大量问题，希望各位大佬批评指正，顺带求个Star
 
 - [Apollo笔记](https://h0lcdmf8t0v.feishu.cn/docx/FyD4de4PnoNQYaxkcuzcK7YMndg?from=from_copylink)：基于赵虚左老师Apollo课程、Apollo官方的云课还有自己看的各种博客综合而成
